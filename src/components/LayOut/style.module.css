@@ -1,0 +1,27 @@
+.container {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header {
+    border-bottom: solid 2px #b4b4c6;
+    margin-bottom: 20px;
+}
+
+.navLink {
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 600;
+    font-size: 22px;
+    color: #191d1e;
+    margin-right: 20px;
+}
+
+.navLink:active {
+    color: #4f46e5;
+}
