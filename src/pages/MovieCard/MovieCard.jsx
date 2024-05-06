@@ -101,7 +101,7 @@ const MovieDetails = () => {
           {companiesList[0] !== null && companiesList.length > 0 && (
             <>
               <h2 className="text-2xl pb-4 font-bold">Production companies</h2>
-              <ul className="flex">{companiesList}</ul>
+              <ul className={styleMovieCard.info}>{companiesList}</ul>
             </>
           )}
         </div>
