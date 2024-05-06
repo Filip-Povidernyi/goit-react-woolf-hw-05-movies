@@ -5,12 +5,14 @@ gap: 24px;
 }
 
 .list {
+list-style-type: none;
 display: inline-flex;
 gap: 12px;
 padding: 0 20px 0 0;
 }
 
 .info {
+list-style-type: none;
 display: flex;
 gap: 12px;
 padding: 0 0 20px 0;
