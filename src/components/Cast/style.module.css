@@ -1,0 +1,12 @@
+.list {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-bottom: 20px;
+}
+
+.text {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
